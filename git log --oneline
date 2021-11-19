@@ -1,0 +1,17 @@
+[33mcommit 4e20d83d4fdf71ecde3b94492cb35a1b222614bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Leonid Group 47 <1199455@gmail.com>
+Date:   Fri Nov 19 18:10:47 2021 +0300
+
+    удален временный файл
+
+[33mcommit 2cf5ab7861318bcb8911055c5cac524cc23c71d6[m
+Author: Leonid Group 47 <1199455@gmail.com>
+Date:   Fri Nov 19 18:08:58 2021 +0300
+
+    добавлен  .gitignore и файл для дальнейшего удаления
+
+[33mcommit ef0f6cf4fb811150af0b89a1b95a1b6328f1b5e8[m
+Author: Leonid Group 47 <1199455@gmail.com>
+Date:   Fri Nov 19 17:35:12 2021 +0300
+
+    initial commit

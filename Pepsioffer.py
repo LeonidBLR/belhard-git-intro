@@ -1,0 +1,1 @@
+print('Sell price 5$')
